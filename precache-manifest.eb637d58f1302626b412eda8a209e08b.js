@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f48524d0986d1ee2dc5b9fd00b889c4",
+    "revision": "38ec374da5d2c27c3ef00de63dce585b",
     "url": "/nerdysoft-task/index.html"
   },
   {
-    "revision": "3b50f568e6fa1e61cfd8",
-    "url": "/nerdysoft-task/static/css/main.0e7bb6fd.chunk.css"
+    "revision": "f93da5bb8d3338a3fb38",
+    "url": "/nerdysoft-task/static/css/main.80297c9d.chunk.css"
   },
   {
     "revision": "f93fa62786d1971967dd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nerdysoft-task/static/js/2.b4bfe7a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b50f568e6fa1e61cfd8",
+    "revision": "f93da5bb8d3338a3fb38",
     "url": "/nerdysoft-task/static/js/main.9f4eb414.chunk.js"
   },
   {
