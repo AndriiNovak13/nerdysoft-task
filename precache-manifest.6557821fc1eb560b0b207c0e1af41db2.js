@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2867c89ecc12a67dc9ee1afc796b0da7",
+    "revision": "0f48524d0986d1ee2dc5b9fd00b889c4",
     "url": "/nerdysoft-task/index.html"
   },
   {
-    "revision": "48ceb28c71f6e31ce8c3",
-    "url": "/nerdysoft-task/static/css/main.c5196c95.chunk.css"
+    "revision": "3b50f568e6fa1e61cfd8",
+    "url": "/nerdysoft-task/static/css/main.0e7bb6fd.chunk.css"
   },
   {
-    "revision": "23b124bbbb0f1c603fc2",
-    "url": "/nerdysoft-task/static/js/2.c2f11c38.chunk.js"
+    "revision": "f93fa62786d1971967dd",
+    "url": "/nerdysoft-task/static/js/2.b4bfe7a4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/nerdysoft-task/static/js/2.c2f11c38.chunk.js.LICENSE.txt"
+    "url": "/nerdysoft-task/static/js/2.b4bfe7a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48ceb28c71f6e31ce8c3",
-    "url": "/nerdysoft-task/static/js/main.05e0624b.chunk.js"
+    "revision": "3b50f568e6fa1e61cfd8",
+    "url": "/nerdysoft-task/static/js/main.9f4eb414.chunk.js"
   },
   {
     "revision": "8eb3a6a3e5b4658ef407",
