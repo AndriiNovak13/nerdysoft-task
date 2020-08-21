@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nerdysoft-task/static/css/main.c5196c95.chunk.css",
+    "main.js": "/nerdysoft-task/static/js/main.05e0624b.chunk.js",
+    "main.js.map": "/nerdysoft-task/static/js/main.05e0624b.chunk.js.map",
+    "runtime-main.js": "/nerdysoft-task/static/js/runtime-main.cd504d75.js",
+    "runtime-main.js.map": "/nerdysoft-task/static/js/runtime-main.cd504d75.js.map",
+    "static/js/2.c2f11c38.chunk.js": "/nerdysoft-task/static/js/2.c2f11c38.chunk.js",
+    "static/js/2.c2f11c38.chunk.js.map": "/nerdysoft-task/static/js/2.c2f11c38.chunk.js.map",
+    "index.html": "/nerdysoft-task/index.html",
+    "precache-manifest.f5e866ea2bc108a6c1b3c179e7603bef.js": "/nerdysoft-task/precache-manifest.f5e866ea2bc108a6c1b3c179e7603bef.js",
+    "service-worker.js": "/nerdysoft-task/service-worker.js",
+    "static/css/main.c5196c95.chunk.css.map": "/nerdysoft-task/static/css/main.c5196c95.chunk.css.map",
+    "static/js/2.c2f11c38.chunk.js.LICENSE.txt": "/nerdysoft-task/static/js/2.c2f11c38.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/nerdysoft-task/static/media/roboto-v20-latin-regular.8681f434.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd504d75.js",
+    "static/js/2.c2f11c38.chunk.js",
+    "static/css/main.c5196c95.chunk.css",
+    "static/js/main.05e0624b.chunk.js"
+  ]
+}
